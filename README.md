@@ -5,7 +5,7 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/emrevoid/ndnsim-os?logo=docker)
 ![Docker Stars](https://img.shields.io/docker/stars/emrevoid/ndnsim-os?logo=docker)
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/emrevoid/ndnsim-os?logo=docker)
-![Docker Image Size (tag)](https://img.shields.io/docker/image-size/emrevoid/ndnsim/ubuntu-20.04?logo=docker)
+![Docker Image Size (tag)](https://img.shields.io/docker/image-size/emrevoid/ndnsim-os/ubuntu-20.04?logo=docker)
 
 ![NDN logo](https://ndnsim.net/current/_static/ndn-logo.png)
 
